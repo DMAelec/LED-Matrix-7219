@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MAX72XX_DISPLAY_DRIVER)(type Legacy)(uri ${KIPRJMOD}/MAX72XX_DISPLAY_DRIVER.lib)(options "")(descr ""))
+)
